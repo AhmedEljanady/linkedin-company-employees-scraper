@@ -1,0 +1,441 @@
+[
+  {
+    "name": "Sherif Shahin",
+    "profileImgURL": "https://media.licdn.com/dms/image/C4D03AQGmG2sME_4lkA/profile-displayphoto-shrink_200_200/0/1612102990163?e=1698883200&v=beta&t=4FeE_NLc5M50a-lwD2CskxixwJtRA5qtWGF-TRTSExI",
+    "distance": "2nd",
+    "title": "Software Engineer at Entronix",
+    "location": "Egypt",
+    "connections": "500+",
+    "profileContacts": {
+      "linkedinProfile": "https://www.linkedin.com/in/sherif-shahin-ab2685161",
+      "website": "",
+      "phone": "",
+      "email": "",
+      "twitter": "",
+      "birthday": "",
+      "ims": ""
+    },
+    "experience": [
+      {
+        "expTitle": "Software Engineer",
+        "expCompName": "Entronix · Full-time",
+        "expCompLogo": "https://media.licdn.com/dms/image/C4E0BAQEk_19uK47a1Q/company-logo_100_100/0/1519904892735?e=1701302400&v=beta&t=TN4KiQ3A_0nk-7Rl5WrYs8SoM1bpEF8zuwUYJXqF-G0",
+        "expCompURL": "https://www.linkedin.com/company/4801592/",
+        "expDuration": "Jan 2023 - Present · 8 mos",
+        "expLocation": "Remote"
+      },
+      {
+        "expTitle": "Backend Engineer",
+        "expCompName": "Spiritude · Full-time",
+        "expCompLogo": "https://media.licdn.com/dms/image/C4D0BAQGaJHic80sXiw/company-logo_100_100/0/1680095550878?e=1701302400&v=beta&t=PJOq-tL8lTUOY3sU47GPouNtIeK1JZiamS6sp8Dw1yg",
+        "expCompURL": "https://www.linkedin.com/company/71508348/",
+        "expDuration": "Oct 2021 - Dec 2022 · 1 yr 3 mos",
+        "expLocation": ""
+      },
+      {
+        "expTitle": "Integration Engineer",
+        "expCompName": "TECH-HUB · Full-time",
+        "expCompLogo": "https://media.licdn.com/dms/image/C4D0BAQFCt4vAueCSFg/company-logo_100_100/0/1603718873836?e=1701302400&v=beta&t=k5IQ74AdW2Uj7zh1VyWgohmQGa1mdKTjEfFZ8GUSrH0",
+        "expCompURL": "https://www.linkedin.com/company/10304853/",
+        "expDuration": "Jan 2021 - Sep 2021 · 9 mos",
+        "expLocation": ""
+      }
+    ],
+    "education": [
+      {
+        "eduFrom": "Faculty of science",
+        "eduDegree": "Bachelor's degree, Computer Science",
+        "eduLogo": "",
+        "eduURL": "",
+        "eduDate": "2016 - 2020"
+      }
+    ],
+    "license": [
+      {
+        "licenseName": "IBM API Connect v2018 API Skills",
+        "compName": "IBM",
+        "compLogo": "https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_100_100/0/1688684715427?e=1701302400&v=beta&t=mc63HyimWonKE9sBTcS6kxY8VKFdfTaL4dGTOC4xvLY",
+        "compURL": "https://www.linkedin.com/company/1009/",
+        "licenseURL": "https://www.credly.com/badges/73636947-710d-4323-b962-db8582648c74?source=linked_in_profile",
+        "licenseDate": "Jun 2021",
+        "credentialID": ""
+      },
+      {
+        "licenseName": "IBM App Connect Enterprise V11 Application Development",
+        "compName": "IBM",
+        "compLogo": "https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_100_100/0/1688684715427?e=1701302400&v=beta&t=mc63HyimWonKE9sBTcS6kxY8VKFdfTaL4dGTOC4xvLY",
+        "compURL": "https://www.linkedin.com/company/1009/",
+        "licenseURL": "https://www.credly.com/badges/f5093600-9721-4734-9d49-73d490f3c46b?source=linked_in_profile",
+        "licenseDate": "Apr 2021",
+        "credentialID": ""
+      }
+    ],
+    "skills": [
+      "python",
+      "FastAPI",
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Abdullah Gira",
+    "profileImgURL": "https://media.licdn.com/dms/image/D4D03AQGdS5jbnHyP0g/profile-displayphoto-shrink_200_200/0/1669373402592?e=1698883200&v=beta&t=85LyLs53kvUpR-HiWWm1WWHYttSUhHAC6jQJd03nAso",
+    "coverURL": "https://media.licdn.com/dms/image/C4E16AQG0VjDM8H3GXg/profile-displaybackgroundimage-shrink_350_1400/0/1609446688207?e=1698883200&v=beta&t=i6F9EcxsbKL736laBs7utSkc6yHXZNRxjPUzsNF57PU",
+    "distance": "2nd",
+    "title": "Full Stack Engineer",
+    "location": "Alexandria, Egypt",
+    "connections": "415",
+    "about": "Developing high-performance full-stack applications using React and Node.js. Prioritizing clean, modular, and extensible code for a strong and scalable architecture. Optimizing applications for maximum search engine visibility through SEO. Collaborating effectively with clients and team members. Incorporating accessibility best practices to create inclusive user experiences. Designing applications with the user in mind for intuitive, user-friendly experiences.",
+    "profileContacts": {
+      "linkedinProfile": "https://www.linkedin.com/in/abdullahgira",
+      "website": "http://abdullahgira.com",
+      "phone": "",
+      "email": "abdullaho.gira@gmail.com",
+      "twitter": "",
+      "birthday": "",
+      "ims": ""
+    },
+    "experience": [
+      {
+        "expTitle": "Software Engineer",
+        "expCompName": "Entronix · Full-time",
+        "expCompLogo": "https://media.licdn.com/dms/image/C4E0BAQEk_19uK47a1Q/company-logo_100_100/0/1519904892735?e=1701302400&v=beta&t=TN4KiQ3A_0nk-7Rl5WrYs8SoM1bpEF8zuwUYJXqF-G0",
+        "expCompURL": "https://www.linkedin.com/company/4801592/",
+        "expDuration": "Nov 2022 - Present · 10 mos",
+        "expLocation": ""
+      },
+      {
+        "expTitle": "Full Stack Engineer",
+        "expCompName": "Spiritude · Full-time",
+        "expCompLogo": "https://media.licdn.com/dms/image/C4D0BAQGaJHic80sXiw/company-logo_100_100/0/1680095550878?e=1701302400&v=beta&t=PJOq-tL8lTUOY3sU47GPouNtIeK1JZiamS6sp8Dw1yg",
+        "expCompURL": "https://www.linkedin.com/company/71508348/",
+        "expDuration": "Aug 2021 - Nov 2022 · 1 yr 4 mos",
+        "expLocation": ""
+      },
+      {
+        "expTitle": "Full Stack Engineer",
+        "expCompName": "Spiritude",
+        "expCompLogo": "https://media.licdn.com/dms/image/C4D0BAQGaJHic80sXiw/company-logo_100_100/0/1680095550878?e=1701302400&v=beta&t=PJOq-tL8lTUOY3sU47GPouNtIeK1JZiamS6sp8Dw1yg",
+        "expCompURL": "https://www.linkedin.com/company/71508348/",
+        "expDuration": "Apr 2021 - May 2021 · 3 mos",
+        "expLocation": ""
+      }
+    ],
+    "education": [
+      {
+        "eduFrom": "Faculty of science",
+        "eduDegree": "Bachelor's degree, Computer Science",
+        "eduLogo": "",
+        "eduURL": "",
+        "eduDate": "Sep 2016 - Jul 2020"
+      },
+      {
+        "eduFrom": "freeCodeCamp",
+        "eduDegree": "",
+        "eduLogo": "https://media.licdn.com/dms/image/C4E0BAQGLKj3JHcof0w/company-logo_100_100/0/1589990867649?e=1701302400&v=beta&t=7dBOvUGucojcWsnaSI_NmgYAsC1FEGjLg9G_T4OgYw8",
+        "eduURL": "https://www.linkedin.com/company/4831032/",
+        "eduDate": ""
+      }
+    ],
+    "license": [
+      {
+        "licenseName": "Java Programming: Arrays, Lists, and Structured Data",
+        "compName": "Coursera",
+        "compLogo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_100_100/0/1608039227697?e=1701302400&v=beta&t=e9cd2t77foZrSITKkaC--e5QNNhwbfdToXBdMbxjkEg",
+        "compURL": "https://www.linkedin.com/company/2453129/",
+        "licenseURL": "https://coursera.org/share/40763ba975f62847eaa167fdb2e1a75b",
+        "licenseDate": "Jan 2022",
+        "credentialID": ""
+      },
+      {
+        "licenseName": "Java Programming: Principles of Software Design",
+        "compName": "Coursera",
+        "compLogo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_100_100/0/1608039227697?e=1701302400&v=beta&t=e9cd2t77foZrSITKkaC--e5QNNhwbfdToXBdMbxjkEg",
+        "compURL": "https://www.linkedin.com/company/2453129/",
+        "licenseURL": "https://coursera.org/share/46cdda4d3633d54f678d8b06e0a97155",
+        "licenseDate": "Feb 2020",
+        "credentialID": ""
+      },
+      {
+        "licenseName": "Node.js: Microservices",
+        "compName": "Lynda.com",
+        "compLogo": "https://media.licdn.com/dms/image/C4E0BAQFfDMello2Gtg/company-logo_100_100/0/1519856598122?e=1701302400&v=beta&t=gvxjhhJT30OURuTA-MX4DMB2s3QyCEHrE852Xeoyz7s",
+        "compURL": "https://www.linkedin.com/company/39939/",
+        "licenseURL": "https://www.lynda.com/Node-js-tutorials/Node-js-Microservices/5016730-2.html",
+        "licenseDate": "Nov 2019",
+        "credentialID": ""
+      }
+    ],
+    "skills": [
+      "React.js",
+      "Node.js",
+      "Vue.js"
+    ]
+  },
+  {
+    "name": "Ray Kamal",
+    "profileImgURL": "https://media.licdn.com/dms/image/C4E03AQEtdJDOtqSeGg/profile-displayphoto-shrink_200_200/0/1560722919606?e=1698883200&v=beta&t=Mb5BPsaP_UYA2TwCJOrmuS0coTBHkiD7EG6ffqlhlr4",
+    "coverURL": "https://media.licdn.com/dms/image/C4D16AQHTcnMg5rEj6g/profile-displaybackgroundimage-shrink_350_1400/0/1516785596606?e=1698883200&v=beta&t=v7JNIDon9JoQ1LvjFAroQ6yB8DhVJh_sB3r6LfbproQ",
+    "distance": "3rd",
+    "title": "Entronix, Linq and other tech ventures.",
+    "location": "Dallas-Fort Worth Metroplex",
+    "connections": "500+",
+    "about": "Ray Kamal is the Co-Founder of Entronix, and Linq under LogicFarm. He has 20 years experience in building automation with over a decade as CEO of a national controls company. Ray's team is focused on developing the next generation of hardware and software technologies in facilities industry.   Logic Farm Is a diversified holding company engaged in research and product development in several technology related industries. Logic Farm holds interests in Entronix, LINQ, ShipDev, JoinIn and is actively pursuing new ventures. www.logicfarm.io  Entronix  At Entronix, our focus is making easily-deployable and intuitive facility analytics platforms for commercial facilities. The Entronix team consists of hardware, software, and application engineers from the automation industry who design, manufacture, and install the systems throughout the US and abroad. Our platform is utilized in high-rise office towers, hospitals, universities, and military bases. All our products are designed and manufactured in the United States and carry a lifetime warranty. www.entronix.io  linq  Collecting asset data in a facility is an important task for compliance and preventive maintenance. Facilities engineering staff are busy with today’s demanding work environment. Data capture rounds are time consuming and tedious work. But even worse, the value in this data is commonly lost or underutilized because it is manually written down on paper and stored in binders. There is no easy way to analyze this data for reporting purposes or finding problems before they occur. Linq's cloud-based platform utilizes existing on-site smart phones and/or tablets at the facility to capture asset data via an app. The app pushes the data to a 100% cloud based platform to analyze and report on this data, and produce real-time alarms. www.linq.io",
+    "profileContacts": {
+      "linkedinProfile": "https://www.linkedin.com/in/raykamal",
+      "website": "http://www.entronix.io",
+      "phone": "",
+      "email": "",
+      "twitter": "",
+      "birthday": "",
+      "ims": ""
+    },
+    "experience": [
+      {
+        "expTitle": "Co-Founder/CEO",
+        "expCompName": "Entronix",
+        "expCompLogo": "https://media.licdn.com/dms/image/C4E0BAQEk_19uK47a1Q/company-logo_100_100/0/1519904892735?e=1701302400&v=beta&t=TN4KiQ3A_0nk-7Rl5WrYs8SoM1bpEF8zuwUYJXqF-G0",
+        "expCompURL": "https://www.linkedin.com/company/4801592/",
+        "expDuration": "Jul 2014 - Present · 9 yrs 2 mos",
+        "expLocation": "Dallas/Fort Worth Area"
+      },
+      {
+        "expTitle": "Co-Founder",
+        "expCompName": "LINQ",
+        "expCompLogo": "https://media.licdn.com/dms/image/C4E0BAQE5JY708DKfSQ/company-logo_100_100/0/1617486437230?e=1701302400&v=beta&t=28Zdz2MXHgL_24--gc4e8VBLVEm5hDsx7Eug_NsPq-g",
+        "expCompURL": "https://www.linkedin.com/company/9281705/",
+        "expDuration": "Jun 2014 - Present · 9 yrs 3 mos",
+        "expLocation": "Dallas/Fort Worth Area"
+      },
+      {
+        "expTitle": "Co-Founder",
+        "expCompName": "Logic Farm - Diversified Holding Company",
+        "expCompLogo": "https://media.licdn.com/dms/image/C560BAQEm5xK-NYKteA/company-logo_100_100/0/1519862333593?e=1701302400&v=beta&t=EP0lSMfbq7IdVKFT-9Q3uCYNl3Xp_8x6lsvkH9kgQig",
+        "expCompURL": "https://www.linkedin.com/company/6609507/",
+        "expDuration": "Jun 2014 - Present · 9 yrs 8 mos",
+        "expLocation": ""
+      },
+      {
+        "expTitle": "CEO",
+        "expCompName": "Computrols, Inc",
+        "expCompLogo": "https://media.licdn.com/dms/image/C560BAQF2NQhwTp8gYQ/company-logo_100_100/0/1602169647691?e=1701302400&v=beta&t=KcH-Q_KnKfZyoGGtSxW2JX9t-bz043pP85TGe5dNtow",
+        "expCompURL": "https://www.linkedin.com/company/2538761/",
+        "expDuration": "Jan 2006 - Apr 2014 · 8 yrs 4 mos",
+        "expLocation": "Greater New Orleans Area"
+      }
+    ],
+    "education": [
+      {
+        "eduFrom": "University of New Orleans",
+        "eduDegree": "",
+        "eduLogo": "https://media.licdn.com/dms/image/C560BAQG4c7HiTlI9Sg/company-logo_100_100/0/1603911869254?e=1701302400&v=beta&t=iktN2uVKW-lpuboWb5RPY_VZKiviCOLzuBORrGNBeqg",
+        "eduURL": "https://www.linkedin.com/company/16563/",
+        "eduDate": "1996 - 2000"
+      },
+      {
+        "eduFrom": "Gadsden State Community College",
+        "eduDegree": "",
+        "eduLogo": "https://media.licdn.com/dms/image/C4E0BAQFt-Ip_IRCfQQ/company-logo_100_100/0/1568896946121?e=1701302400&v=beta&t=WN0NbEr6vK9G0LsyrMJyk5tYPe3mcAjR5wniBaQPr0c",
+        "eduURL": "https://www.linkedin.com/company/102298/",
+        "eduDate": "1994 - 1996"
+      }
+    ],
+    "license": [],
+    "skills": [
+      "Energy Management",
+      "Certified Energy Manager",
+      "Building Automation"
+    ]
+  },
+  {
+    "name": "Caleb Sour",
+    "profileImgURL": "https://media.licdn.com/dms/image/C4E03AQGSMiij1RvNTQ/profile-displayphoto-shrink_200_200/0/1590088399080?e=1698883200&v=beta&t=tOykVxdNYFaRJLDQq-Gx_dpCWMUgMlExkc6Kzn7znWg",
+    "coverURL": "https://media.licdn.com/dms/image/C5616AQEJTSJ0m_hmFw/profile-displaybackgroundimage-shrink_350_1400/0/1516868894216?e=1698883200&v=beta&t=RIRAGAzEh1zsQxVUmldas6yunPqTbLCAMsuBURa1MLQ",
+    "title": "LINQ - Asset Tracking\nENTRONIX - Facilities Management",
+    "location": "New Orleans, Louisiana, United States",
+    "connections": "187",
+    "profileContacts": {
+      "linkedinProfile": "https://www.linkedin.com/in/calebsour8844",
+      "website": "",
+      "phone": "",
+      "email": "",
+      "twitter": "",
+      "birthday": "",
+      "ims": ""
+    },
+    "experience": [
+      {
+        "expTitle": "Chief Technology Officer",
+        "expCompName": "LINQ - Americas · Full-time",
+        "expCompLogo": "https://media.licdn.com/dms/image/C4E0BAQE5JY708DKfSQ/company-logo_100_100/0/1617486437230?e=1701302400&v=beta&t=28Zdz2MXHgL_24--gc4e8VBLVEm5hDsx7Eug_NsPq-g",
+        "expCompURL": "https://www.linkedin.com/company/9281705/",
+        "expDuration": "Jun 2018 - Present · 5 yrs 3 mos",
+        "expLocation": ""
+      },
+      {
+        "expTitle": "Chief Operating Officer",
+        "expCompName": "Entronix",
+        "expCompLogo": "https://media.licdn.com/dms/image/C4E0BAQEk_19uK47a1Q/company-logo_100_100/0/1519904892735?e=1701302400&v=beta&t=TN4KiQ3A_0nk-7Rl5WrYs8SoM1bpEF8zuwUYJXqF-G0",
+        "expCompURL": "https://www.linkedin.com/company/4801592/",
+        "expDuration": "May 2015 - Present · 8 yrs 4 mos",
+        "expLocation": "Kenner, Louisiana"
+      },
+      {
+        "expTitle": "Canvasser",
+        "expCompName": "Joule Solar Energy",
+        "expCompLogo": "https://media.licdn.com/dms/image/C4D0BAQGpmbY8Mzkr3w/company-logo_100_100/0/1519913482570?e=1701302400&v=beta&t=b-g_plbL4DDD4XRnOycbnyzudIsXRam8_uxCCb1o3x0",
+        "expCompURL": "https://www.linkedin.com/company/727209/",
+        "expDuration": "Sep 2013 - May 2015 · 1 yr 9 mos",
+        "expLocation": "New Orleans, Louisiana"
+      },
+      {
+        "expTitle": "Electrician's Assistant",
+        "expCompName": "Cornerstone Electric, LLC",
+        "expCompLogo": "",
+        "expCompURL": "",
+        "expDuration": "Oct 2009 - Aug 2013 · 3 yrs 11 mos",
+        "expLocation": "New Orleans, Louisiana"
+      }
+    ],
+    "education": [
+      {
+        "eduFrom": "University of New Orleans",
+        "eduDegree": "Bachelor's Degree, Electrical, Electronics and Communications Engineering",
+        "eduLogo": "https://media.licdn.com/dms/image/C560BAQG4c7HiTlI9Sg/company-logo_100_100/0/1603911869254?e=1701302400&v=beta&t=iktN2uVKW-lpuboWb5RPY_VZKiviCOLzuBORrGNBeqg",
+        "eduURL": "https://www.linkedin.com/company/16563/",
+        "eduDate": "2012 - 2016"
+      }
+    ],
+    "license": [],
+    "skills": [
+      "Electrical Engineering",
+      "Programming",
+      "C++"
+    ]
+  },
+  {
+    "name": "Anwer Bashi",
+    "profileImgURL": "https://media.licdn.com/dms/image/C5103AQH1mGZPb9wS9A/profile-displayphoto-shrink_200_200/0/1517567120625?e=1698883200&v=beta&t=6vhww_LbMBJ93k6tJ-mSOMmYxwbIEZ5Ctp3l7Mph-AQ",
+    "distance": "3rd",
+    "title": "Co-Founder/Director of R&D at Entronix",
+    "location": "Greater New Orleans Region",
+    "connections": "463",
+    "profileContacts": {
+      "linkedinProfile": "https://www.linkedin.com/in/anwerbashi",
+      "website": "",
+      "phone": "",
+      "email": "",
+      "twitter": "",
+      "birthday": "",
+      "ims": ""
+    },
+    "experience": [
+      {
+        "expTitle": "Co-Founder/Director of R&D",
+        "expCompName": "Entronix",
+        "expCompLogo": "https://media.licdn.com/dms/image/C4E0BAQEk_19uK47a1Q/company-logo_100_100/0/1519904892735?e=1701302400&v=beta&t=TN4KiQ3A_0nk-7Rl5WrYs8SoM1bpEF8zuwUYJXqF-G0",
+        "expCompURL": "https://www.linkedin.com/company/4801592/",
+        "expDuration": "Jan 2015 - Present · 8 yrs 8 mos",
+        "expLocation": "Greater New Orleans Area"
+      },
+      {
+        "expTitle": "Co-Founder/Director of R&D",
+        "expCompName": "LINQ - Americas",
+        "expCompLogo": "https://media.licdn.com/dms/image/C4E0BAQE5JY708DKfSQ/company-logo_100_100/0/1617486437230?e=1701302400&v=beta&t=28Zdz2MXHgL_24--gc4e8VBLVEm5hDsx7Eug_NsPq-g",
+        "expCompURL": "https://www.linkedin.com/company/9281705/",
+        "expDuration": "Jan 2015 - Present · 8 yrs 8 mos",
+        "expLocation": "Greater New Orleans Area"
+      },
+      {
+        "expTitle": "Co-Founder/Member Board of Directors",
+        "expCompName": "Logic Farm - Diversified Holding Company",
+        "expCompLogo": "https://media.licdn.com/dms/image/C560BAQEm5xK-NYKteA/company-logo_100_100/0/1519862333593?e=1701302400&v=beta&t=EP0lSMfbq7IdVKFT-9Q3uCYNl3Xp_8x6lsvkH9kgQig",
+        "expCompURL": "https://www.linkedin.com/company/6609507/",
+        "expDuration": "Jan 2015 - Present · 8 yrs 8 mos",
+        "expLocation": "Greater New Orleans Area"
+      },
+      {
+        "expTitle": "Electrical Engineering Advisory Board, Chair",
+        "expCompName": "University of New Orleans",
+        "expCompLogo": "https://media.licdn.com/dms/image/C560BAQG4c7HiTlI9Sg/company-logo_100_100/0/1603911869254?e=1701302400&v=beta&t=iktN2uVKW-lpuboWb5RPY_VZKiviCOLzuBORrGNBeqg",
+        "expCompURL": "https://www.linkedin.com/company/16563/",
+        "expDuration": "2005 - Present · 18 yrs 8 mos",
+        "expLocation": "Greater New Orleans Area"
+      },
+      {
+        "expTitle": "Principal Research Engineer",
+        "expCompName": "Computrols, Inc",
+        "expCompLogo": "https://media.licdn.com/dms/image/C560BAQF2NQhwTp8gYQ/company-logo_100_100/0/1602169647691?e=1701302400&v=beta&t=KcH-Q_KnKfZyoGGtSxW2JX9t-bz043pP85TGe5dNtow",
+        "expCompURL": "https://www.linkedin.com/company/2538761/",
+        "expDuration": "1998 - Dec 2014 · 17 yrs",
+        "expLocation": "Greater New Orleans Area"
+      }
+    ],
+    "education": [
+      {
+        "eduFrom": "University of New Orleans",
+        "eduDegree": "Doctor of Philosophy (Ph.D.), Electrical and Electronics Engineering",
+        "eduLogo": "https://media.licdn.com/dms/image/C560BAQG4c7HiTlI9Sg/company-logo_100_100/0/1603911869254?e=1701302400&v=beta&t=iktN2uVKW-lpuboWb5RPY_VZKiviCOLzuBORrGNBeqg",
+        "eduURL": "https://www.linkedin.com/company/16563/",
+        "eduDate": "1991 - 1998"
+      }
+    ],
+    "license": [],
+    "skills": [
+      "Software Development",
+      "Electrical Engineering",
+      "C++"
+    ]
+  },
+  {
+    "name": "Junaid Bashi",
+    "profileImgURL": "https://media.licdn.com/dms/image/D5603AQEgy06JuozjiA/profile-displayphoto-shrink_200_200/0/1679105402421?e=1698883200&v=beta&t=49BU57K0JYRtfTGdzX6DCNpFBSHFE24otAgdzCEwsvg",
+    "coverURL": "https://media.licdn.com/dms/image/C4E16AQFNCTRPV7Rj3w/profile-displaybackgroundimage-shrink_350_1400/0/1631030231249?e=1698883200&v=beta&t=YhjCtWX2vLkTVSi0_kBDJjO5RIdBn0B4zYNYXBxfbpE",
+    "distance": "3rd",
+    "title": "Application Engineer at Entronix",
+    "location": "Richardson, Texas, United States",
+    "followers": 303,
+    "connections": "271",
+    "about": "I'm a dedicated student studying Computer Engineering at the University of Texas at Dallas. My goal is to bridge the gap between theoretical learning and practical applications.  With a strong passion for technology and its potential for positive impact, I'm constantly seeking opportunities to use what I learn in class to solve real-world problems. From designing algorithms to developing software solutions, I thrive on turning ideas into efficient and user-friendly applications.  I've gained valuable hands-on experience through projects and collaborations. I stay updated with the latest advancements and continuously expand my skill set to stay at the forefront of the field.",
+    "profileContacts": {
+      "linkedinProfile": "https://www.linkedin.com/in/junaid-bashi-5b986421b",
+      "website": "",
+      "phone": "",
+      "email": "",
+      "twitter": "",
+      "birthday": "March 11",
+      "ims": ""
+    },
+    "experience": [
+      {
+        "expTitle": "Application Engineer",
+        "expCompName": "Entronix · Part-time",
+        "expCompLogo": "https://media.licdn.com/dms/image/C4E0BAQEk_19uK47a1Q/company-logo_100_100/0/1519904892735?e=1701302400&v=beta&t=TN4KiQ3A_0nk-7Rl5WrYs8SoM1bpEF8zuwUYJXqF-G0",
+        "expCompURL": "https://www.linkedin.com/company/4801592/",
+        "expDuration": "May 2021 - Present · 2 yrs 4 mos",
+        "expLocation": "Dallas, Texas, United States"
+      }
+    ],
+    "education": [
+      {
+        "eduFrom": "The University of Texas at Dallas",
+        "eduDegree": "Bachelor's degree, Computer Engineering",
+        "eduLogo": "https://media.licdn.com/dms/image/C4E0BAQEBYU4_oEvArQ/company-logo_100_100/0/1601995944632?e=1701302400&v=beta&t=Mlc1ivf5mOyWmj19GbHOU1RlOkmx_64jv1Pc1qvIltI",
+        "eduURL": "https://www.linkedin.com/company/166681/",
+        "eduDate": "2021 - 2025"
+      },
+      {
+        "eduFrom": "Haynes Academy School for Advanced Studies",
+        "eduDegree": "High School Diploma",
+        "eduLogo": "https://media.licdn.com/dms/image/C4E0BAQFqf2P-pErNsw/company-logo_100_100/0/1539104919819?e=1701302400&v=beta&t=oBejUX0NOTSygpnOO-E4O1cUgtWiU8vH45yvhkhCRdg",
+        "eduURL": "https://www.linkedin.com/company/33303372/",
+        "eduDate": "Aug 2016 - May 2021"
+      }
+    ],
+    "license": [],
+    "skills": [
+      "Object-Oriented Programming (OOP)",
+      "Spanish",
+      "English"
+    ]
+  }
+]
