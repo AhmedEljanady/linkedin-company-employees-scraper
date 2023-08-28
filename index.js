@@ -2,6 +2,12 @@ const puppeteer = require("puppeteer");
 const { Cluster } = require("puppeteer-cluster");
 const fs = require("fs").promises;
 
+const companyURL = "https://www.linkedin.com/company/entronix/";
+// const companyURL = "https://www.linkedin.com/company/13224787/";
+// const companyURL = "https://www.linkedin.com/company/pentavalue/people/";
+// const companyURL = "https://www.linkedin.com/company/cellnexuk/";
+// const companyURL = "https://www.linkedin.com/company/telenor-infra/people/";
+
 let originalLang;
 let urls = [];
 let unAvailable = [];
@@ -921,11 +927,6 @@ async function scrapeContacts(page) {
 
   // await changeLangEn(page);
 
-  const companyURL = "https://www.linkedin.com/company/entronix/";
-  // const companyURL = "https://www.linkedin.com/company/13224787/";
-  // const companyURL = "https://www.linkedin.com/company/pentavalue/people/";
-  // const companyURL = "https://www.linkedin.com/company/cellnexuk/";
-  // const companyURL = "https://www.linkedin.com/company/telenor-infra/people/";
   const parts = companyURL.split("/");
   const companyName = parts[4];
   const startingURL = `https://www.linkedin.com/company/${companyName}/people/`;
